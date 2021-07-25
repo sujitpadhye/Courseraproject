@@ -45,7 +45,7 @@
                         <td>7 </td> <td>Uranus</td> <td>2.871 b km</td>
                     </tr>
                     <tr>
-                        <td>8</td> <td>Neptune</td> <td>4.495 billion km</td>
+                        <td>8</td> <td>Pluto</td> <td>4.495 billion km</td>
                     </tr>
                </table>
             </body>
